@@ -2,8 +2,10 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Sam Liu`
+- **CCID:** `Sam12`
+
+## New Function: press and hold to delete city
 
 ## References and Resources
 
